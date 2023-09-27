@@ -21,3 +21,14 @@ Complementa la Tabla
 |Thonny|4.2.1|Software Libre|
 |SSD1602|1.8.1|Software Libre|
 
+##Prototipo en dibujo
+
+
+##Comunicacion
+
+
+##Arquitectura 
+
+
+##Base de datos
+
