@@ -18,7 +18,6 @@ Complementa la Tabla
 ##Software a Utilizar
 |Nombre|Version|Tipo Software|
 |-|-|-|
-
 |Thonny|4.2.1|Software Libre|
 |SSD1602|1.8.1|Software Libre|
 
