@@ -18,6 +18,9 @@
 |-|-|-|-|
 |ESP32|Microcontrolador con 30 pines con comunicacion WIFI y Bluetooth||$140.00|
 |Cable dupont|Cables para conexion de prototipos de pruebas|50|$60.00|
+|Sensor Pir Hc-sr501|Detector De Movimiento|2|$55.00|
+|Led|Se utiliza un LED como indicador visual.|1|$70.00|
+
 
 
 
