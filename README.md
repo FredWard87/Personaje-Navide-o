@@ -33,8 +33,8 @@
 |PlatformIO|6.1.11|Software Libre/IDE|
 
 ##Prototipo en dibujo
-## Prototipo en dibujo
-![Prototipo](ruta/a/la/imagen_2023-09-30_161949978.png)
+
+![Prototipo](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_161949978.png)
 
 
 ##Comunicacion
