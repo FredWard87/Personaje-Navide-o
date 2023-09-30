@@ -5,7 +5,7 @@
 
 -Campesino con Cesto de Uvas 
 
-#Nombre Integrantes Equipo
+##Nombre Integrantes Equipo
 
 |Nombre | Apellido Paterno | Apellido Materno |
 |-|-|-|
@@ -27,7 +27,7 @@
 |-|-|-|
 |Thonny|4.2.1|Software Libre|
 |SSD1602|1.8.1|Software Libre|
-|PlatformIO||Software Libre|
+|PlatformIO|6.1.11|Software Libre/IDE|
 
 ##Prototipo en dibujo
 
