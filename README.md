@@ -5,6 +5,13 @@
 
 -Campesino con Cesto de Uvas 
 
+#Nombre Integrantes Equipo
+
+|Nombre | Apellido Paterno | Apellido Materno |
+|-|-|-|
+|Fredy Alonso|Esparza|Campuzano|
+|Alan Omar|Venegas|Cadena|
+
 #Materiales a utilizar
 
 |Nom Componente | Descripcion | Cantidad| Precio|
