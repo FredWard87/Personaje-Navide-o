@@ -3,7 +3,7 @@
 
 #Nombre del personaje 
 
--Nombre de tu personaje 
+-Campesino con Cesto de Uvas 
 
 #Materiales a utilizar
 
