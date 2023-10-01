@@ -48,6 +48,8 @@
 La comunicación del usuario con el prototipo se realizará mediante una conexión inalámbrica a través del protocolo Wi-Fi. El ESP32 actuará como un servidor Wi-Fi, permitiendo que el usuario interactúe con el campesino mediante una interfaz web. Los comandos enviados desde la interfaz web controlarán diversas funciones del personaje navideño, como encender luces, activar el movimiento del brazo o cambiar su estado. La interfaz web proporcionará una experiencia intuitiva para que el usuario pueda controlar y disfrutar del campesino con cesto de uvas.
 
 ## Arquitectura 
+|||
+|-|-|
 ![ESP32](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_205346944.png)
 ![CABLES](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_205355976.png)
 ![ARDUINO](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_205401510.png )
@@ -57,7 +59,6 @@ La comunicación del usuario con el prototipo se realizará mediante una conexi�
 ![MOTOR](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_205421160.png)
 ![RESISTENCIA](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_205426703.png)
 ![SQLITE](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_212018227.png)
-
 
 
 
