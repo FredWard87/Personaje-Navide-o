@@ -59,4 +59,5 @@ Mano con Cesto de Uvas: Se implementa un mecanismo para simular el movimiento de
 Otra Mano Levantada: Se utiliza otro mecanismo para simular el levantamiento de la otra mano. Al igual que con la mano que sostiene el cesto de uvas, este movimiento puede ser controlado por un motor o algún mecanismo mecánico.
 
 ## Base de datos
+![Base de Datos](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_194854915.png)
 
