@@ -58,7 +58,7 @@ La comunicación del usuario con el prototipo se realizará mediante una conexi�
 ![KIT](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_205416305.png )|KIT SOLDADURA
 ![MOTOR](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_205421160.png)|MOTOR
 ![RESISTENCIA](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_205426703.png)|RESISTENCIA
-![SQLITE](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_212018227.png)|SQLITE
+SQLITE|![SQLITE](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_212018227.png)|
 
 
 
