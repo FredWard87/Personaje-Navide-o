@@ -42,7 +42,7 @@
 
 
 ## Arquitectura 
-Sensor de Movimiento (PIR HC-SR501): Cuando el sensor detecta movimiento en su campo de visión, envía una señal de activación al microcontrolador ESP32.
+Sensor de Movimiento : Cuando el sensor detecta movimiento en su campo de visión, envía una señal de activación al microcontrolador ESP32.
 
 Microcontrolador ESP32: El ESP32, al recibir la señal del sensor de movimiento, activa el LED y controla su color. Además, coordina las acciones para el movimiento de las manos.
 
