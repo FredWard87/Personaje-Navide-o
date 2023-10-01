@@ -50,14 +50,14 @@ La comunicación del usuario con el prototipo se realizará mediante una conexi�
 ## Arquitectura 
 |||
 |-|-|
-![ESP32](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_205346944.png)|ESP32
-![CABLES](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_205355976.png)|CABLES DUPONT
-![ARDUINO](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_205401510.png )|ARDUINO
-![PANTALLA OLED](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_205406319.png)|PANTALLA OLED
-![SENSOR](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_205411366.png)|SENSOR DE MOV.
-![KIT](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_205416305.png )|KIT SOLDADURA
-![MOTOR](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_205421160.png)|MOTOR
-![RESISTENCIA](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_205426703.png)|RESISTENCIA
+ESP32|![ESP32](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_205346944.png)|
+CABLES DUPONT|![CABLES](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_205355976.png)|
+ARDUINO|![ARDUINO](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_205401510.png )|
+PANTALLA OLED|![PANTALLA OLED](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_205406319.png)|
+SENSOR DE MOV.|![SENSOR](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_205411366.png)|
+KIT SOLDADURA|![KIT](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_205416305.png )|
+MOTOR|![MOTOR](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_205421160.png)|
+RESISTENCIA|![RESISTENCIA](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_205426703.png)|
 SQLITE|![SQLITE](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_212018227.png)|
 
 
