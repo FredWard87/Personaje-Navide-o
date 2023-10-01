@@ -42,7 +42,15 @@
 
 
 ## Arquitectura 
+Sensor de Movimiento (PIR HC-SR501): Cuando el sensor detecta movimiento en su campo de visión, envía una señal de activación al microcontrolador ESP32.
 
+Microcontrolador ESP32: El ESP32, al recibir la señal del sensor de movimiento, activa el LED y controla su color. Además, coordina las acciones para el movimiento de las manos.
+
+LED: El LED se enciende y muestra un color morado cuando se activa. La elección del color puede ser configurada en el código del microcontrolador y, en este caso, se ha elegido el color morado.
+
+Mano con Cesto de Uvas: Se implementa un mecanismo para simular el movimiento de la mano que sostiene el cesto de uvas. Esto podría ser un motor o algún mecanismo mecánico controlado por el microcontrolador.
+
+Otra Mano Levantada: Se utiliza otro mecanismo para simular el levantamiento de la otra mano. Al igual que con la mano que sostiene el cesto de uvas, este movimiento puede ser controlado por un motor o algún mecanismo mecánico.
 
 ## Base de datos
 
