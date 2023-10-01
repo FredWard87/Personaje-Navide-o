@@ -48,12 +48,16 @@
 El objetivo principal de este proyecto es llevar la tradición navideña y la representación del pesebre a un nivel tecnológico, brindando un ambiente cálido y festivo en la Universidad Tecnológica del Norte de Guanajuato. La idea es construir un pesebre interactivo en el que destaque un campesino con un cesto de uvas, incorporando movimiento y luces LED. Este proyecto no solo busca decorar el entorno, sino también cumplir con responsabilidades de enseñanza y aprendizaje.
 
 ## Arquitectura 
-![ESP32](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_161949978.png)
-![ESP32](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_161949978.png)
-![ESP32](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_161949978.png)
-![ESP32](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_161949978.png)
-![ESP32](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_161949978.png)
-![ESP32](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_161949978.png)
+![ESP32](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_205346944.png)
+![CABLES](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_205355976.png)
+![ARDUINO](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_205401510.png )
+![PANTALLA OLED](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_205406319.png)
+![SENSOR](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_205411366.png)
+![KIT](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_205416305.png )
+![MOTOR](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_205421160.png)
+![RESISTENCIA](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_205426703.png)
+
+
 
 
 
