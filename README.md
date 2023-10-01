@@ -24,6 +24,7 @@
 |Placa Arduino|Placa Arduino grande para la conexión de placas y sensores|2|$360.00|
 |SSD1306 pantalla OLED con Arduino|Controlador SSD1306 para pantalla OLED con Arduino y ESP8266. Las pantallas OLED no son más que eso| 1 | $89.00|
 |Pack 5 servomotores|servomotor con movimiento de 180 grados para el brazo|2|$50.00|
+|Soldador|kit de soldador para los motores y las piezas del muñeco|1| $90.00|
 
 
 
