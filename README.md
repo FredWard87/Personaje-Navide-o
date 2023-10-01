@@ -22,6 +22,7 @@
 |Sensor Pir Hc-sr501|Detector De Movimiento|2|$55.00|
 |Led|Se utiliza un LED como indicador visual.|10|$70.00|
 |Placa Arduino|Placa Arduino grande para la conexión de placas y sensores|2|$360.00|
+SSD1306 pantalla OLED con Arduino|Controlador SSD1306 para pantalla OLED con Arduino y ESP8266. Las pantallas OLED no son más que eso| 1 | $89.00
 
 
 
@@ -40,7 +41,7 @@
 
 
 ## Comunicacion
-
+El objetivo principal de este proyecto es llevar la tradición navideña y la representación del pesebre a un nivel tecnológico, brindando un ambiente cálido y festivo en la Universidad Tecnológica del Norte de Guanajuato. La idea es construir un pesebre interactivo en el que destaque un campesino con un cesto de uvas, incorporando movimiento y luces LED. Este proyecto no solo busca decorar el entorno, sino también cumplir con responsabilidades de enseñanza y aprendizaje.
 
 ## Arquitectura 
 Sensor de Movimiento : Cuando el sensor detecta movimiento en su campo de visión, envía una señal de activación al microcontrolador ESP32.
