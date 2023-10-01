@@ -26,6 +26,7 @@
 |Pack 5 servomotores|servomotor con movimiento de 180 grados para el brazo|2|$50.00|
 |Soldador|kit de soldador para los motores y las piezas del muñeco|1| $90.00|
 |WINGONEER 25 Valores 16V 25V 50V 1uF a 2200uF | Condensadores electrolíticos | 10 pz| $40.00|
+| Kit Resistencias, Conjunto de Resistores fijos de película metálica, Resistencias de orificio|  (Stand Wire Gauge), perfecto para paneles en proyectos electrónicos de Arduino| 25pz | $50.00|
 
 
 
