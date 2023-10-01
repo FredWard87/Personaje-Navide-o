@@ -48,15 +48,14 @@
 El objetivo principal de este proyecto es llevar la tradición navideña y la representación del pesebre a un nivel tecnológico, brindando un ambiente cálido y festivo en la Universidad Tecnológica del Norte de Guanajuato. La idea es construir un pesebre interactivo en el que destaque un campesino con un cesto de uvas, incorporando movimiento y luces LED. Este proyecto no solo busca decorar el entorno, sino también cumplir con responsabilidades de enseñanza y aprendizaje.
 
 ## Arquitectura 
-Sensor de Movimiento : Cuando el sensor detecta movimiento en su campo de visión, envía una señal de activación al microcontrolador ESP32.
+![ESP32](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_161949978.png)
+![ESP32](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_161949978.png)
+![ESP32](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_161949978.png)
+![ESP32](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_161949978.png)
+![ESP32](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_161949978.png)
+![ESP32](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_161949978.png)
 
-Microcontrolador ESP32: El ESP32, al recibir la señal del sensor de movimiento, activa el LED y controla su color. Además, coordina las acciones para el movimiento de las manos.
 
-LED: El LED se enciende y muestra un color morado cuando se activa. La elección del color puede ser configurada en el código del microcontrolador y, en este caso, se ha elegido el color morado.
-
-Mano con Cesto de Uvas: Se implementa un mecanismo para simular el movimiento de la mano que sostiene el cesto de uvas. Esto podría ser un motor o algún mecanismo mecánico controlado por el microcontrolador.
-
-Otra Mano Levantada: Se utiliza otro mecanismo para simular el levantamiento de la otra mano. Al igual que con la mano que sostiene el cesto de uvas, este movimiento puede ser controlado por un motor o algún mecanismo mecánico.
 
 ## Base de datos
 ![Base de Datos](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_194854915.png)
