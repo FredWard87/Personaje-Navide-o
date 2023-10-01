@@ -21,6 +21,7 @@
 |Cable dupont|Cables para conexion de prototipos de pruebas|50|$60.00|
 |Sensor Pir Hc-sr501|Detector De Movimiento|2|$55.00|
 |Led|Se utiliza un LED como indicador visual.|10|$70.00|
+|Placa Arduino|Placa Arduino grande para la conexión de placas y sensores|2|$360.00|
 
 
 
