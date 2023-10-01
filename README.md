@@ -49,7 +49,7 @@ La comunicación del usuario con el prototipo se realizará mediante una conexi�
 
 ## Arquitectura 
 ||
-|-|-|
+|-|
 |ESP32|![ESP32](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_205346944.png)|
 |CABLES DUPONT|![CABLES](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_205355976.png)|
 |ARDUINO|![ARDUINO](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_205401510.png )|
