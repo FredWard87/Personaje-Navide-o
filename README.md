@@ -38,6 +38,8 @@
 |Thonny|4.2.1|Software Libre|
 |SSD1602|1.8.1|Software Libre|
 |PlatformIO|6.1.11|Software Libre/IDE|
+|Visual Studio Code|1.82|Software Libre/IDE|
+|SQLite|3.43.1|Software Libre|
 
 ## Prototipo en dibujo
 
