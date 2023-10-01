@@ -25,8 +25,8 @@
 |SSD1306 pantalla OLED con Arduino|Controlador SSD1306 para pantalla OLED con Arduino y ESP8266. Las pantallas OLED no son más que eso| 1 | $89.00|
 |Pack 5 servomotores|servomotor con movimiento de 180 grados para el brazo|2|$50.00|
 |Soldador|kit de soldador para los motores y las piezas del muñeco|1| $90.00|
-|WINGONEER 25 Valores 16V 25V 50V 1uF a 2200uF | Condensadores electrolíticos | 10 pz| $40.00|
-| Kit Resistencias, Conjunto de Resistores fijos de película metálica, Resistencias de orificio|  (Stand Wire Gauge), perfecto para paneles en proyectos electrónicos de Arduino| 25pz | $50.00|
+|WINGONEER 25 Valores 16V 25V 50V 1uF a 2200uF | Condensadores electrolíticos | 10 | $40.00|
+| Kit Resistencias, Conjunto de Resistores fijos de película metálica, Resistencias de orificio|  (Stand Wire Gauge), perfecto para paneles en proyectos electrónicos de Arduino| 25 | $50.00|
 
 
 
@@ -45,7 +45,7 @@
 
 
 ## Comunicacion
-El objetivo principal de este proyecto es llevar la tradición navideña y la representación del pesebre a un nivel tecnológico, brindando un ambiente cálido y festivo en la Universidad Tecnológica del Norte de Guanajuato. La idea es construir un pesebre interactivo en el que destaque un campesino con un cesto de uvas, incorporando movimiento y luces LED. Este proyecto no solo busca decorar el entorno, sino también cumplir con responsabilidades de enseñanza y aprendizaje.
+La comunicación del usuario con el prototipo se realizará mediante una conexión inalámbrica a través del protocolo Wi-Fi. El ESP32 actuará como un servidor Wi-Fi, permitiendo que el usuario interactúe con el campesino mediante una interfaz web. Los comandos enviados desde la interfaz web controlarán diversas funciones del personaje navideño, como encender luces, activar el movimiento del brazo o cambiar su estado. La interfaz web proporcionará una experiencia intuitiva para que el usuario pueda controlar y disfrutar del campesino con cesto de uvas.
 
 ## Arquitectura 
 ![ESP32](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_205346944.png)
