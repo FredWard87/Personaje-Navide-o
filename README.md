@@ -58,7 +58,7 @@ ARDUINO|![ARDUINO](https://github.com/ABOK451/Personaje-Navide-o/blob/main/image
 PANTALLA OLED|![PANTALLA OLED](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_205406319.png)|
 SENSOR DE MOV.|![SENSOR](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_205411366.png)|
 KIT SOLDADURA|![KIT](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_205416305.png )|
-MOTOR|![MOTOR](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_205421160.png)|
+MOTOR|![MOTOR](https://github.com/ABOK451/Personaje-Navide-o/blob/main/motor.png)|
 RESISTENCIA|![RESISTENCIA](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_205426703.png)|
 SQLITE|![SQLITE](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_212018227.png)|
 
