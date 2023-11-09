@@ -23,9 +23,13 @@
 |Led|Se utiliza un LED como indicador visual.|10|$70.00|
 |Placa Arduino|Placa Arduino grande para la conexión de placas y sensores|2|$360.00|
 |SSD1306 pantalla OLED con Arduino|Controlador SSD1306 para pantalla OLED con Arduino y ESP8266. Las pantallas OLED no son más que eso| 1 | $89.00|
-|Pack 5 servomotores|servomotor con movimiento de 180 grados para el brazo|2|$50.00|
 |Soldador|kit de soldador para los motores y las piezas del muñeco|1| $90.00|
 |WINGONEER 25 Valores 16V 25V 50V 1uF a 2200uF | Condensadores electrolíticos | 10 | $40.00|
+|Motor a Pasos||1|$|C
+|Alambre||5|$|
+|Carton|||$|
+|Pegamento||2|$|
+|Papel|||$|
 | Kit Resistencias, Conjunto de Resistores fijos de película metálica, Resistencias de orificio|  (Stand Wire Gauge), perfecto para paneles en proyectos electrónicos de Arduino| 25 | $50.00|
 
 
@@ -40,6 +44,7 @@
 |PlatformIO|6.1.11|Software Libre/IDE|
 |Visual Studio Code|1.82|Software Libre/IDE|
 |SQLite|3.43.1|Software Libre|
+|ArduinoIDE|2.2.1|Software libre|
 
 ## Prototipo en dibujo
 
@@ -58,7 +63,7 @@ ARDUINO|![ARDUINO](https://github.com/ABOK451/Personaje-Navide-o/blob/main/image
 PANTALLA OLED|![PANTALLA OLED](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_205406319.png)|
 SENSOR DE MOV.|![SENSOR](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_205411366.png)|
 KIT SOLDADURA|![KIT](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_205416305.png )|
-MOTOR|![MOTOR](https://github.com/ABOK451/Personaje-Navide-o/blob/main/motor.jpg)|
+MOTOR A PASOS|![MOTOR](https://github.com/ABOK451/Personaje-Navide-o/blob/main/motor.jpg)|
 RESISTENCIA|![RESISTENCIA](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_205426703.png)|
 SQLITE|![SQLITE](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_212018227.png)|
 
