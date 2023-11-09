@@ -48,7 +48,7 @@
 
 ## Prototipo en dibujo
 
-![Prototipo](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_210548468.png)
+![Prototipo](https://github.com/ABOK451/Personaje-Navide-o/blob/main/dibujo.jpg)
 
 
 ## Comunicacion
