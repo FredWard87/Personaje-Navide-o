@@ -24,12 +24,13 @@
 |Placa Arduino|Placa Arduino grande para la conexión de placas y sensores|2|$360.00|
 |Soldador|kit de soldador para los motores y las piezas del muñeco|1| $90.00|
 |WINGONEER 25 Valores 16V 25V 50V 1uF a 2200uF | Condensadores electrolíticos | 10 | $40.00|
-|Motor a Pasos||1|$|C
-|Alambre||5|$|
-|Carton|||$|
-|Pegamento||2|$|
-|Papel|||$|
+|Motor a Pasos|Motor a pasos para movimiento preciso|1|$150.00|
+|Alambre|Alambre para Movimientos|5|$20.00|
+|Carton|Estructura Muñeco|7|$15.00|
+|Pegamento|Adhesivo para ensamblar componentes|2|$22.00|
+|Papel|Para Decoracion|10|$10.00|
 | Kit Resistencias, Conjunto de Resistores fijos de película metálica, Resistencias de orificio|  (Stand Wire Gauge), perfecto para paneles en proyectos electrónicos de Arduino| 25 | $50.00|
+|Otros Materiales|Materiales para tema de decoracion|5|$50.00|
 
 
 
@@ -45,6 +46,9 @@
 |SQLite|3.43.1|Software Libre|
 |ArduinoIDE|2.2.1|Software libre|
 |dcmotor||Libreria|
+|stepper||Libreria|
+|ssd1306||Libreria|
+|hcsr04||Libreria|
 
 
 ## Prototipo en dibujo
